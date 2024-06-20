@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://your-username.github.io/your-repo",
+  "homepage": "git@github.com:zhazhajust/h5reader.git",
   "eslintConfig": {
     "extends": [
       "react-app",
