@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:zhazhajust/h5reader.git/static/css/main.0a627b8b.css",
+    "main.js": "/git@github.com:zhazhajust/h5reader.git/static/js/main.ccfbbec3.js",
+    "static/js/453.b54028c3.chunk.js": "/git@github.com:zhazhajust/h5reader.git/static/js/453.b54028c3.chunk.js",
+    "index.html": "/git@github.com:zhazhajust/h5reader.git/index.html",
+    "main.0a627b8b.css.map": "/git@github.com:zhazhajust/h5reader.git/static/css/main.0a627b8b.css.map",
+    "main.ccfbbec3.js.map": "/git@github.com:zhazhajust/h5reader.git/static/js/main.ccfbbec3.js.map",
+    "453.b54028c3.chunk.js.map": "/git@github.com:zhazhajust/h5reader.git/static/js/453.b54028c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a627b8b.css",
+    "static/js/main.ccfbbec3.js"
+  ]
+}
