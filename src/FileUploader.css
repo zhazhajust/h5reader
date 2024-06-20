@@ -1,0 +1,19 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+.upload-container {
+display: flex;
+justify-content: center;
+margin-bottom: 20px;
+}
+  
+/* .list-container {
+display: flex;
+justify-content: center;
+}
+*/
